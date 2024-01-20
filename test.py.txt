@@ -1,0 +1,76 @@
+##################################################################################
+##################????##????##?######??####??###???###????##???###################
+##################?##?##?#####?#####?##?##?##?##?##?##?#####?##?##################
+##################?#?###???###?#####?##?##????##?##?##???###?##?##################
+##################?##?##?#####?#####?##?##?##?##?##?##?#####?##?##################
+##################?##?##????##????###??###?##?##???###????##???###################
+##################################################################################
+###
+### Stats and Achievements stored here:
+###
+### Windows 2000, 2003, XP
+###
+### C:\Documents and Settings\All Users\Application Data\Steam\%UserName%\%Appid%\
+###
+### Windows Vista, 7, 8, 8.1, 10
+###
+### C:\ProgramData\Steam\%UserName%\%Appid%\
+###
+[Settings]
+###
+### 
+### Enter your name here
+### 
+### Names with diacritic or cyrillic characters are supported but not guaranteed to work
+###
+UserName = Player
+
+###
+### Select your language here if available
+###
+Language = english
+
+[Steam64]
+
+[Steam]
+SteamAppList=0000000000
+SteamApps=0000000003
+SteamAppTicket=0000000000
+SteamClient=0000000008
+SteamContentServer=0000000002
+SteamController=0000000000
+SteamFriends=0000000005
+SteamGameCoordinator=0000000000
+SteamGameServer=0000000009
+SteamGameServerStats=0000000000
+SteamGameStats=0000000000
+SteamHTMLSurface=0000000000
+SteamHTTP=0000000000
+SteamInventory=0000000000
+SteamMasterServerUpdater=0000000001
+SteamMatchmaking=0000000007
+SteamMatchmakingServers=0000000001
+SteamMusic=0000000000
+SteamMusicRemote=0000000000
+SteamNetworking=0000000003
+SteamRemoteStorage=0000000002
+SteamScreenshots=0000000000
+SteamUGC=0000000000
+SteamUnifiedMessages=0000000000
+SteamUser=0000000012
+SteamUserStats=0000000006
+SteamUtils=0000000004
+SteamVideo=0000000000
+SteamVR=0000000000
+
+InstallDir = .\
+SM0 = steam_api.dll
+
+CFlags = 0x1bb17b9b221e2df0
+EFlags = 0x1bb17bda221e2df0
+XFlags = 0x326053fc18c59f13
+
+###
+### http://store.steampowered.com/app/%AppId%/
+###
+AppId = 10180
